@@ -1,5 +1,4 @@
-function increment(num) {
-  return num + 1;
+function incrementTs(num) {
+    return num + 1;
 }
-
-console.log(increment("999"));
+console.log(incrementTs(999));
